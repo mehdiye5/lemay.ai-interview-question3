@@ -1,4 +1,4 @@
-# lemay.ai-interview-question3
+# Lemay.Ai Interview Question 3
 
 ## Why did I choose IMDb dataset for my demonstration of exploratory data analysis?
 
